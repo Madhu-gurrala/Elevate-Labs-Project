@@ -32,4 +32,7 @@ Step-5 : Exploratory Data Analysis (EDA).
 Step-6 : Predictive modelling using logistic regression.
 Step-7 : Power BI dashboard.
 ## Insights:
+=> Location Heavily Influences the prices.
+=> Seasons effect the demand 
+=> Based on property type and room facilities the prices are varying.
 
